@@ -1,6 +1,6 @@
 # CutPaperRoll-MovingRobot
-## Bottom-up dynamic approach to solve cutting roll problem where Roll size is:
-| LENGHT | COST  | 
+## Bottom-up dynamic approach to solve cutting roll problem where Roll length is:
+| LENGTH | COST  | 
 | -----  |:-----| 
 | 1      | €1.2  | 
 | 2      | €3    | 
